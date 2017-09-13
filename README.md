@@ -17,7 +17,7 @@
 <hr></hr>
 <p>I-I-If I misbehave or  otherwise break you can join my <a href="https://discord.gg/eYbEBaS">Support Guild</a> to get the issue r-resolved. S-Sorry!<br>
   <hr></hr>
-<p>You can check my documentation <a href="https://github.com/MrLar/ShuviWiki/wiki">here</a> to get the issue r-resolved. S-Sorry!<br>
+<p>You can check my documentation <a href="https://github.com/MrLar/ShuviWiki/wiki">here</a>!~<br>
     </body>
   <hr></hr>
 </html>
