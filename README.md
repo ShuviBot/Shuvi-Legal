@@ -2,8 +2,6 @@
 <!DOCTYPE html>
 <html>
     <header>
-        <header>Warning!!! Shuvi is not yet public the link wont work yet she will be public at arround 14th to 15th September</header>
-      <hr></hr>
 <a href="https://discordapp.com/oauth2/authorize?client_id=323128638444929025&scope=bot&permissions=536210551">
 			<img src="https://cdn.discordapp.com/avatars/323128638444929025/aa2b6a46cbaf0592edf9d6a5891cd57f.png" height="220" width="220">
   </img>
