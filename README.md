@@ -1,12 +1,6 @@
 [![Discord Bots](https://discordbots.org/api/widget/323128638444929025.png)](https://discordbots.org/bot/323128638444929025?utm_source=widget)
 <!DOCTYPE html>
 <html>
-    <header>
-<a href="https://discordapp.com/oauth2/authorize?client_id=323128638444929025&scope=bot&permissions=536210551">
-			<img src="https://cdn.discordapp.com/avatars/323128638444929025/aa2b6a46cbaf0592edf9d6a5891cd57f.png" height="220" width="220">
-  </img>
-      </a>
-  </header>
 <hr>
 </hr>
         <h1>ShuviBot</h1>
