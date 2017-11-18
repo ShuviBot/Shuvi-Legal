@@ -1,4 +1,4 @@
-[![Discord Bots](https://discordbots.org/api/widget/323128638444929025.png)](https://discordbots.org/bot/323128638444929025?utm_source=widget)
+[![Discord Bots](https://discordbots.org/api/widget/323128638444929025.png)](https://discordbots.org/bot/323128638444929025)
 <!DOCTYPE html>
 <html>
 <hr>
