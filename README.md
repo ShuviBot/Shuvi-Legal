@@ -1,4 +1,4 @@
-[![Discord Bots](https://discordbots.org/api/widget/323128638444929025.png)](https://discordbots.org/bot/323128638444929025)
+[![Discord Bots](https://discordbots.org/api/widget/status/323128638444929025.png)](https://discordbots.org/bot/323128638444929025)[![Discord Bots](https://discordbots.org/api/widget/servers/323128638444929025.png?noavatar=true)](https://discordbots.org/bot/323128638444929025)[![Discord Bots](https://discordbots.org/api/widget/owner/323128638444929025.png?noavatar=true)](https://discordbots.org/bot/323128638444929025)[![Discord Bots](https://discordbots.org/api/widget/upvotes/323128638444929025.png?noavatar=true)](https://discordbots.org/bot/323128638444929025)[![Discord Bots](https://discordbots.org/api/widget/lib/323128638444929025.png?noavatar=true)](https://discordbots.org/bot/323128638444929025)
 <!DOCTYPE html>
 <html>
 <hr>
