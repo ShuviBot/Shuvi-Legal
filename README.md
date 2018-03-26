@@ -23,7 +23,7 @@ The following changes were made:
 - Removed Support for Direct Messages
 - Added Support for disabling categories and commands on a channel specific base and disabling specific channels entirely.
 - Extended Guild Extension with Custom Settings
-- Extended User Extension with Currency Settings
+- Added User Extension with Currency Settings
 - Extended the Guild Member object for Special Roles Settings
 - Extended the Client to carry the various handlers like Weeb.sh, Starboard etc.
 - Rewrote the Entire Provider Function to be more reasonable with MySQL
