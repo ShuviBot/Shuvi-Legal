@@ -15,6 +15,7 @@
 
 # Copyright Notices
 
+### discord.js-commando 
 Shuvi uses a modified version of [discord.js-commando](https://github.com/Gawdl3y/discord.js-commando/blob/master/LICENSE) which is licensed under <code>Apache License 2.0</code>
 
 The following changes were made:
@@ -29,8 +30,10 @@ The following changes were made:
 - Rewrote the Entire Provider Function to be more reasonable with MySQL
 - Added support for Langauges
 
+### discord-paginationembed
 Additionally Shuvi uses a shortened and slightly modified version of [discord-paginationembed](https://github.com/gazmull/discord-paginationembed/blob/master/LICENSE) licensed under <code>MIT</code>
 
+### discord.js
 On top of that Shuvi uses a slightly [modified](https://github.com/MrLar/discord.js) version of [discord.js](https://github.com/discordjs/discord.js/blob/master/LICENSE) which is licened under <code>Apache-2.0</code>:
 
 The following things were changed:
