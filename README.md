@@ -10,3 +10,28 @@
     </body>
   <hr></hr>
 </html>
+
+
+
+# Copyright Notices
+
+Shuvi uses a modified version of [discord.js-commando](https://github.com/Gawdl3y/discord.js-commando/blob/master/LICENSE) which is licensed under <code>Apache License 2.0</code>
+
+The following changes were made:
+- Changed all default responses to no longer mention the user.
+- Changed the text of some default responses
+- Removed Support for Direct Messages
+- Added Support for disabling categories and commands on a channel specific base and disabling specific channels entirely.
+- Extended Guild Extension with Custom Settings
+- Extended User Extension with Currency Settings
+- Extended the Guild Member object for Special Roles Settings
+- Extended the Client to carry the various handlers like Weeb.sh, Starboard etc.
+- Rewrote the Entire Provider Function to be more reasonable with MySQL
+- Added support for Langauges
+
+Additionally Shuvi uses a shortened and slightly modified version of [discord-paginationembed](https://github.com/gazmull/discord-paginationembed/blob/master/LICENSE) licensed under <code>MIT</code>
+
+On top of that Shuvi uses a slightly [modified](https://github.com/MrLar/discord.js) version of [discord.js](https://github.com/discordjs/discord.js/blob/master/LICENSE) which is licened under <code>Apache-2.0</code>:
+
+The following things were changed:
+- The Fork is a combination of the master branch of the original d.js (Commit: 4e0e64d) and [FireController1847's Internal Sharding branch (Commit: efc42ed)](https://github.com/FireController1847/discord.js/tree/internal-sharding)
