@@ -37,4 +37,4 @@ Additionally Shuvi uses a shortened and slightly modified version of [discord-pa
 On top of that Shuvi uses a slightly [modified](https://github.com/MrLar/discord.js) version of [discord.js](https://github.com/discordjs/discord.js/blob/master/LICENSE) which is licened under <code>Apache-2.0</code>:
 
 The following things were changed:
-- The Fork is a combination of the master branch of the original d.js (Commit: 4e0e64d) and [FireController1847's Internal Sharding branch (Commit: efc42ed)](https://github.com/FireController1847/discord.js/tree/internal-sharding) and a small fix for the guildMemberRemove event.
+- The Fork is a combination of the master branch of the original d.js (Commit: 623d4c0) and [FireController1847's Internal Sharding branch](https://github.com/FireController1847/discord.js/tree/internal-sharding) (Commit: 4ab72af) and a small fix for the guildMemberRemove event aswell as a fix for createEmoji firing twice..
