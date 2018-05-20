@@ -31,7 +31,7 @@ The following changes were made:
 - Extended the Client to carry the various handlers like Weeb.sh, Starboard etc.
 - Rewrote the Entire Provider Function to be more reasonable with MySQL
 - Added support for Langauges
-- Ranamed Commando references to Shuvi (i.e CommandClient -> ShuviClient)
+- Ranamed Commando references to Shuvi (i.e CommandoClient -> ShuviClient)
 
 ~~discord-paginationembed
 Additionally Shuvi uses a shortened and slightly modified version of [discord-paginationembed](https://github.com/gazmull/discord-paginationembed/blob/master/LICENSE) licensed under MIT~~ As of Shuvi 4.1.0 Shuvi does not use this module or any modification of it anymore
