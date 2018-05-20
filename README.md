@@ -25,18 +25,19 @@ The following changes were made:
 - Changed the text of some default responses
 - Removed Support for Direct Messages
 - Added Support for disabling categories and commands on a channel specific base and disabling specific channels entirely.
+- Added support for disallowing roles specific commands
+- Removed need for prompts
 - Extended Guild Extension with Custom Settings
-- Added User Extension with Currency Settings
-- Extended the Guild Member object for Special Roles Settings
 - Extended the Client to carry the various handlers like Weeb.sh, Starboard etc.
 - Rewrote the Entire Provider Function to be more reasonable with MySQL
 - Added support for Langauges
 
-### discord-paginationembed
-Additionally Shuvi uses a shortened and slightly modified version of [discord-paginationembed](https://github.com/gazmull/discord-paginationembed/blob/master/LICENSE) licensed under <code>MIT</code>
+~~discord-paginationembed
+Additionally Shuvi uses a shortened and slightly modified version of [discord-paginationembed](https://github.com/gazmull/discord-paginationembed/blob/master/LICENSE) licensed under MIT~~ As of Shuvi 4.1.0 Shuvi does not use this module or any modification of it anymore
 
-### discord.js
-On top of that Shuvi uses a slightly [modified](https://github.com/MrLar/discord.js) version of [discord.js](https://github.com/discordjs/discord.js/blob/master/LICENSE) which is licensed under <code>Apache License 2.0</code>:
+~~discord.js
+On top of that Shuvi uses a slightly [modified](https://github.com/MrLar/discord.js) version of [discord.js](https://github.com/discordjs/discord.js/blob/master/LICENSE) which is licensed under Apache License 2.0:~~
 
-The following things were changed:
-- The Fork is a combination of the master branch of the original d.js (Commit: 623d4c0) and [FireController1847's Internal Sharding branch](https://github.com/FireController1847/discord.js/tree/internal-sharding) (Commit: 4ab72af) and a small fix for the guildMemberRemove event aswell as a fix for createEmoji firing twice.
+~~The following things were changed:
+- The Fork is a combination of the master branch of the original d.js (Commit: 623d4c0) and [FireController1847's Internal Sharding branch](https://github.com/FireController1847/discord.js/tree/internal-sharding) (Commit: 4ab72af) and a small fix for the guildMemberRemove event aswell as a fix for createEmoji firing twice.~~
+As of 4.1.0 Shuvi uses only orginal discord.js files.
