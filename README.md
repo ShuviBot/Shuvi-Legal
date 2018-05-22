@@ -36,7 +36,7 @@ The following changes were made:
 ~~discord-paginationembed
 Additionally Shuvi uses a shortened and slightly modified version of [discord-paginationembed](https://github.com/gazmull/discord-paginationembed/blob/master/LICENSE) licensed under MIT~~ As of Shuvi 4.1.0 Shuvi does not use this module or any modification of it anymore
 
-discord.js
+### discord.js
 On top of that Shuvi uses a slightly [modified](https://github.com/MrLar/discord.js) version of [discord.js](https://github.com/discordjs/discord.js/blob/master/LICENSE) which is licensed under Apache License 2.0:
 
 The following things were changed:
