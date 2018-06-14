@@ -13,7 +13,7 @@
 
 # License
 
-Shuvi itself, while closed source, is licensed under <code>Apache License 2.0</code> you can find the License in [this repository](https://github.com/ShuviBot/Shuvi-Legal/blob/master/LICENSE).
+Shuvi itself along side It's website, while closed source, are licensed under <code>Apache License 2.0</code> you can find the License in [this repository](https://github.com/ShuviBot/Shuvi-Legal/blob/master/LICENSE).
 
 # Copyright Notices
 
@@ -33,11 +33,8 @@ The following changes were made:
 - Added support for Langauges
 - Ranamed Commando references to Shuvi (i.e CommandoClient -> ShuviClient)
 
-~~discord-paginationembed
-Additionally Shuvi uses a shortened and slightly modified version of [discord-paginationembed](https://github.com/gazmull/discord-paginationembed/blob/master/LICENSE) licensed under MIT~~ As of Shuvi 4.1.0 Shuvi does not use this module or any modification of it anymore
-
 ### discord.js
 On top of that Shuvi uses a slightly [modified](https://github.com/MrLar/discord.js) version of [discord.js](https://github.com/discordjs/discord.js/blob/master/LICENSE) which is licensed under Apache License 2.0:
 
 The following things were changed:
-- The Fork is a combination of the master branch of the original d.js (Commit: faf27fa) and [FireController1847's Internal Sharding branch](https://github.com/FireController1847/discord.js/tree/internal-sharding) (Commit: 4ab72af) and a small fix for the guildMemberRemove event aswell as a fix for createEmoji firing twice.
+- The Fork is a combination of the master branch of the original d.js (Commit: 99bd355) and [FireController1847's Internal Sharding branch](https://github.com/FireController1847/discord.js/tree/internal-sharding) (Commit: 4ab72af) and a small fix for the guildMemberRemove event aswell as a fix for createEmoji firing twice.
