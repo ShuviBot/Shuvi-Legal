@@ -35,7 +35,7 @@ The following changes were made:
 - Removed all pre-made types but string
 
 ### discord.js
-On top of that Shuvi uses a slightly [modified](https://github.com/MrLar/discord.js) version of [discord.js](https://github.com/discordjs/discord.js/blob/master/LICENSE) which is licensed under Apache License 2.0:
+On top of that Shuvi uses a slightly [modified](https://github.com/MrLar/discord.js) version of [discord.js](https://github.com/discordjs/discord.js/blob/master/LICENSE) which is licensed under <code>Apache License 2.0</code>:
 
 The following things were changed:
 - The Fork is a combination of the master branch of the original discord.js (as of commit: d276850) with the official Internal Sharding branch merged ontop (as of commit: c260ce2) as list of all additonal changes can be view in [this repository](https://github.com/ShuviBot/discord.js)
