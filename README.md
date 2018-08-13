@@ -26,12 +26,13 @@ The following changes were made:
 - Removed Support for Direct Messages
 - Added Support for disabling categories and commands on a channel specific base and disabling specific channels entirely.
 - Added support for disallowing roles specific commands
-- Removed need for prompts
+- Removed prompts entirely
+- Changed how argument validation is handled (now returns a message if validation fails)
 - Extended Guild Extension with Custom Settings
-- Extended the Client to carry the various handlers like Weeb.sh, Starboard etc.
 - Rewrote the Entire Provider Function to be more reasonable with MySQL
 - Added support for Langauges
 - Ranamed Commando references to Shuvi (i.e CommandoClient -> ShuviClient)
+- Removed all pre-made types but string
 
 ### discord.js
 On top of that Shuvi uses a slightly [modified](https://github.com/MrLar/discord.js) version of [discord.js](https://github.com/discordjs/discord.js/blob/master/LICENSE) which is licensed under Apache License 2.0:
