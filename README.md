@@ -38,4 +38,4 @@ The following changes were made:
 On top of that Shuvi uses a slightly [modified](https://github.com/MrLar/discord.js) version of [discord.js](https://github.com/discordjs/discord.js/blob/master/LICENSE) which is licensed under Apache License 2.0:
 
 The following things were changed:
-- The Fork is a combination of the master branch of the original d.js (Commit: 99bd355) and [FireController1847's Internal Sharding branch](https://github.com/FireController1847/discord.js/tree/internal-sharding) (Commit: 4ab72af) and a small fix for the guildMemberRemove event aswell as a fix for createEmoji firing twice.
+- The Fork is a combination of the master branch of the original discord.js (as of commit: d276850) with the official Internal Sharding branch merged ontop (as of commit: c260ce2) as list of all additonal changes can be view in [this repository](https://github.com/ShuviBot/discord.js)
