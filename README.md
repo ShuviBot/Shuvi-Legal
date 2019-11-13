@@ -26,4 +26,3 @@ The following changes were made:
 - Rewrote the Entire Provider Function to be more reasonable with MySQL
 - Renamed Commando references to Shuvi (i.e CommandoClient -> ShuviClient)
 - Removed args-typing system
-- Added support for in-depth Music manipulation
