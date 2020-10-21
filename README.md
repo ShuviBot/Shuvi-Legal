@@ -8,7 +8,7 @@ This repository merely exists to document all legal stuff regarding my Discord B
 Shuvi itself along side It's website, while closed source, are licensed under <code>Apache License 2.0</code> you can find the License in this very repository.
 
 # Copyright Notices
- - Most Currency emote crome from icons8.com
+ - Most Currency emotes crome from icons8.com
  - Some item emotes are taken from other games. Credits for those go to Minecraft (Mojang), Terraria (Re-Logic) and Dungeon Defenders (Chromatic Games) respectively.
  
 # Shuvi Uses
